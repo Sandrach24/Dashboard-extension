@@ -1,2 +1,1 @@
-"# Dashboard-plugin" 
-# Dashboard-plugin
+# Dashboard-extension
